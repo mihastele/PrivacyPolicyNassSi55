@@ -1,0 +1,1 @@
+I do not collect any data in the game. The only way there is any data related is the Unity advertisement system used, which is not in my control, I just use their API.
